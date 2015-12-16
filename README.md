@@ -1,4 +1,4 @@
-# Intro to High Performance Computing for Life Sciences
+# Intro to Linux and High Performance Computing for Life Sciences
 
 * **Course Location:** MD Anderson Cancer Center, Mid Campus Building Room 1MC5.3312/3313
 * **Date and Time:** Friday, December 15th, 2015, 1:00pm - 4:00pm
