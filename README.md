@@ -1,7 +1,6 @@
 # MD Anderson Cancer Center 
 
-To view a record of past course offerings, click the "Branch" tab above and navigate by date.
-
+To view descriptions and materials for past course offerings at MDACC, click the "Branch" tab above and navigate by date.
 
 
 | Recent Workshops |
