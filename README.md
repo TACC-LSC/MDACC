@@ -1,7 +1,7 @@
 # Intro to Linux and High Performance Computing for Life Sciences
 
-* **Course Location:** MD Anderson Cancer Center, Mid Campus Building Room 1MC5.3312/3313
-* **Date and Time:** Friday, December 15th, 2015, 1:00pm - 4:00pm
+* **Course Location:** MD Anderson Cancer Center, Mid Campus Building Room 1MC16.3312/3313
+* **Date and Time:** Friday, February 26th, 2016, 9:00am - 12:00pm
 * **Presenter:** Joe Allen (wallen [at] tacc.utexas.edu)
 
 ### Course Objectives 
