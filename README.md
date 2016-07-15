@@ -1,7 +1,7 @@
 # Intro to Linux and High Performance Computing for Life Sciences
 
 * **Course Location:** MD Anderson Cancer Center, Mid Campus Building Room 1MC13.3312/3313
-* **Date and Time:** Friday, June 17th, 2016, 9:00am - 12:00pm
+* **Date and Time:** Friday, July 15th, 2016, 9:00am - 12:00pm
 * **Presenter:** Joe Allen (wallen [at] tacc.utexas.edu)
 
 ### Course Objectives 
@@ -71,7 +71,7 @@ This workshop is hands-on and interactive. Participants will actively engage in 
 | **Students should be able to...** |
 | <ul><li> Display their current environment variables. </li><li> Change existing and create new environment variables. </li><li> List modules currently loaded in their environment. </li><li> Load and unloaded modules. </li><li> Describe the effects of a module load command. </li><li> Automate module and environment commands in the .bash_profile. </li><li> Write batch job submission scripts. </li><li> Submit jobs to a queue. </li><li> Monitor jobs in a queue and delete jobs from a queue. </li></ul> |
 | **Assessment activities:** |
-| <ul><li> Read the module description for packages you use. </li><li> `Lab03:` Complete a batch submission script and submit. </li><li> Submit your first batch job. </li></ul> |
+| <ul><li> Read the module description for packages you use. </li><li> `Lab03:` Complete a batch submission script and submit. </li><li> Submit your first batch job. </li><li> `Lab04:` Autodock job (time permitting).</li><li> `Lab05`: Samtools job (time permitting).</li></ul> |
 
 
 <br>
